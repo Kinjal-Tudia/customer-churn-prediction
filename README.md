@@ -39,6 +39,21 @@ pip install -r requirements.txt
 python train.py
 streamlit run app.py
 
-## 👩‍💻 Author
-**Kinjal Tudia**  
-Aspiring Data Scientist
+
+## Hi 👋 I'm Kinjal Tudia
+
+🎯 Aspiring Data Scientist  
+📊 Passionate about Data Analysis, AI & Machine Learning  
+
+### 🔧 Skills
+- Python, SQL
+- Data Analysis & Visualization
+- Machine Learning
+- Streamlit, GitHub
+
+### 🚀 Projects
+- Customer Churn Prediction (AI/ML)
+- More coming soon...
+
+📫 Connect with me on LinkedIn
+
